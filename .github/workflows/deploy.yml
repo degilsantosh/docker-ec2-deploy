@@ -1,4 +1,4 @@
-iname: Deploy Docker WebApp to EC2
+name: Deploy Docker WebApp to EC2
 
 on:
   push:
